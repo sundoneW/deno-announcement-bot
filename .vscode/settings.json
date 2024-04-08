@@ -8,5 +8,10 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1D8207",
+    "titleBar.activeBackground": "#FFFFFF",
+    "titleBar.activeForeground": "#FFFFFF"
+  }
 }
